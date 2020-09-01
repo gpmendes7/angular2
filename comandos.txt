@@ -1,0 +1,15 @@
+Backend
+
+// Cria o package json
+npm init -y
+
+// Instalar JSON Server
+npm i json-server
+
+//Configurar package.json
+"scripts": {
+    "start": "json-server --watch db.json --port 3001"
+}
+
+// Iniciar aplicação
+npm start
