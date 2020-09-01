@@ -1,4 +1,4 @@
-Backend
+***** Backend
 
 // Cria o package json
 npm init -y
@@ -13,3 +13,14 @@ npm i json-server
 
 // Iniciar aplicação
 npm start
+
+// Instalar Command Line Interface (Angular CLI)
+npm i -g @angular/cli
+
+// Help (Ver comandos do Angular)
+ng
+
+****** Frontend
+
+// Criar aplicação 
+ng new frontend --minimal
