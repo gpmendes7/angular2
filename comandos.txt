@@ -24,3 +24,6 @@ ng
 
 // Criar aplicação 
 ng new frontend --minimal
+
+// Instalar material
+ng add @angular/material
