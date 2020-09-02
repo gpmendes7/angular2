@@ -31,3 +31,4 @@ ng add @angular/material
 //Criar componentes
 ng generate component components/template/header
 ng g c components/template/header
+ng g c components/template/footer
