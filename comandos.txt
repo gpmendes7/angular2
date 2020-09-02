@@ -32,3 +32,4 @@ ng add @angular/material
 ng generate component components/template/header
 ng g c components/template/header
 ng g c components/template/footer
+ng g c components/template/nav
