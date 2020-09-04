@@ -38,3 +38,4 @@ ng g c views/product-crud
 
 // Criar diretivas
 ng g d directives/red
+ng g d directives/for
