@@ -33,6 +33,7 @@ ng generate component components/template/header
 ng g c components/template/header
 ng g c components/template/footer
 ng g c components/template/nav
+ng g c components/product/product-create
 ng g c views/home
 ng g c views/product-crud
 
