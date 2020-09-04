@@ -28,9 +28,13 @@ ng new frontend --minimal
 // Instalar material
 ng add @angular/material
 
-//Criar componentes
+// Criar componentes
 ng generate component components/template/header
 ng g c components/template/header
 ng g c components/template/footer
 ng g c components/template/nav
 ng g c views/home
+ng g c views/product-crud
+
+// Criar diretivas
+ng g d directives/red
