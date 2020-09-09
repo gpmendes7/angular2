@@ -38,6 +38,9 @@ ng g c components/product/product-read
 ng g c views/home
 ng g c views/product-crud
 
+// Criar componentes (com schematics)
+ng generate @angular/material:table components/product/product-read2
+
 // Criar diretivas
 ng g d directives/red
 ng g d directives/for
