@@ -35,6 +35,7 @@ ng g c components/template/footer
 ng g c components/template/nav
 ng g c components/product/product-create
 ng g c components/product/product-read
+ng g c components/product/product-update
 ng g c views/home
 ng g c views/product-crud
 
