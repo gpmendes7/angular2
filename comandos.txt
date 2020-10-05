@@ -49,6 +49,7 @@ ng g d directives/for
 
 // Criar services
 ng g s components/product/product
+ng g s components/template/header/header
 
 // Atalho VSCode
 Ctrl + D (Substituir referências)
