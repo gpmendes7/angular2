@@ -13,4 +13,16 @@ export class HeaderComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  get title(): string {
+    return this.headerService.headerData.title;
+  }
+
+  get icon(): string {
+    return this.headerService.headerData.icon;
+  }
+
+  get routeUrl(): string {
+    return this.headerService.headerData.routeUrl;
+  }
+
 }

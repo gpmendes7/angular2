@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { HeaderData } from '../footer/header-data.model';
+import { HeaderData } from './header-data.model';
 import { BehaviorSubject } from 'rxjs';
 
 @Injectable({
